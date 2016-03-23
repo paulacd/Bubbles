@@ -1,1 +1,1 @@
-#Bubbles
+Bubbles is a simple creative coding environment that simulates the physics and natural movements of bubbles being blown. The bubble's behavior is controlled by mouse clicks and thus, the user's interaction.
